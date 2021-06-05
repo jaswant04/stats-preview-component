@@ -141,3 +141,11 @@ li>span{
         height: 30%;
     }
 }
+@media (max-width:381px) {
+    h1{
+        font-size: 1.6rem;
+    }
+    ul{
+        margin-top: 1.6em;
+    }
+}
