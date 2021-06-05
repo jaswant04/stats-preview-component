@@ -115,12 +115,12 @@ li>span{
         position: relative;
     }
     h1{
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     .left p{
         max-height: none;
         max-width: none;
-        font-size: 1.2rem;
+        font-size: 0.9rem;
         margin: 1.2em auto;
     }
     ul{
